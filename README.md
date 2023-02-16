@@ -18,7 +18,6 @@ It is a text encryption/decryption tool that allows you to hide/protect your tex
 - [@Rafeal Reyes](https://www.github.com/MdSagorMunshi)
 
 #
-© 2017 - 2023 https://mdsagormunshi.github.io/ - All Rights Reserved.
 
 ## Feedback
 
