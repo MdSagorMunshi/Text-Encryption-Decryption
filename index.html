@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Text Encryption/Decryption</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Text Encryption/Decryption</h1>
+		<form>
+			<label for="text-input">Enter text to encrypt/decrypt:</label><br>
+			<textarea id="text-input" rows="4" cols="50"></textarea><br>
+			<label for="key-input">Enter a secret key:</label><br>
+			<input type="password" id="key-input"><br>
+			<input type="button" value="Encrypt" onclick="encrypt()">
+			<input type="button" value="Decrypt" onclick="decrypt()">
+		</form>
+		<div id="output"></div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
